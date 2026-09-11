@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Mac-lightgrey?style=for-the-badge)
-![License](https://img.shields.io/badge/License-AGPL%20v3.0-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)
 ![Sentinel](https://img.shields.io/badge/Sentinel-ACTIVE-red?style=for-the-badge)
 
 **Manual system administration is dead.**
